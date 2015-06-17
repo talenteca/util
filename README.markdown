@@ -6,7 +6,7 @@ See the Scaladoc [here](https://twitter.github.com/util)
 
 # Using in your Project
 
-Pre-compiled jars for each set of tools (`util-core`, `util-collection` etc) are available in the Twitter Maven repository, here: http://maven.twttr.com/
+Pre-compiled jars for each set of tools (`util-core`, `util-collection`, etc) are available in the Twitter Maven repository, here: http://maven.twttr.com/
 
 We use [Semantic Versioning](http://semver.org/) for published artifacts.
 
